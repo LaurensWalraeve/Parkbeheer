@@ -1,0 +1,15 @@
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\bin\Debug\net5.0\ParkDataLayer.deps.json
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\bin\Debug\net5.0\ParkDataLayer.dll
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\bin\Debug\net5.0\ParkDataLayer.pdb
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\bin\Debug\net5.0\ParkBusinessLayer.dll
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\bin\Debug\net5.0\ParkBusinessLayer.pdb
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.csproj.AssemblyReference.cache
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.AssemblyInfoInputs.cache
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.AssemblyInfo.cs
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.csproj.CopyComplete
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.dll
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\refint\ParkDataLayer.dll
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ParkDataLayer.pdb
+C:\Users\LaurensW\Desktop\Specialisatie\SolutionParkbeheerOpgave-master\ParkDataLayer\obj\Debug\net5.0\ref\ParkDataLayer.dll

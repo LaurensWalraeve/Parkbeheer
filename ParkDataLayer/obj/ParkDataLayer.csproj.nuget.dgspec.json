@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkDataLayer\\ParkDataLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj",
+        "projectName": "ParkBusinessLayer",
+        "projectPath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\LaurensW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LaurensW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkDataLayer\\ParkDataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkDataLayer\\ParkDataLayer.csproj",
+        "projectName": "ParkDataLayer",
+        "projectPath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkDataLayer\\ParkDataLayer.csproj",
+        "packagesPath": "C:\\Users\\LaurensW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkDataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LaurensW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

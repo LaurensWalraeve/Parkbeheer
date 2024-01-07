@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2h/Rm2+mT2VzIJbGV630WM1ZU4jeh7YzDHkzAA7fDdiZHY58PDiekZjGruwtB/le0e60H7cFlq7r6gob31X7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LaurensW\\Desktop\\Specialisatie\\SolutionParkbeheerOpgave-master\\ParkBusinessLayer\\ParkBusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LaurensW\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LaurensW\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\LaurensW\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\LaurensW\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
